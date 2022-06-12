@@ -37,3 +37,46 @@
     width: 50vw;
     height: 50vh;
 }
+.mes{
+    border: 1px solid white;
+    font-size: 15px;
+}
+.calendario{
+    margin-top: 30px;
+}
+.col-1{
+    background-color: blue;
+}
+.col-2{
+    background-color: red;
+}
+.col-3{
+    background-color: rebeccapurple;
+}
+.col-4{
+    background-color: greenyellow;
+}
+.col-5{
+    background-color: yellow;
+}
+.col-6{
+    background-color: grey;
+}
+.col-8{
+    background-color: blueviolet;
+}
+.col-9{
+    background-color: gray;
+}
+.col-10{
+    background-color: rgb(148, 121, 22);
+}
+.col-11{
+    background-color: rgb(188, 118, 27);
+}
+.col-12{
+    background-color: goldenrod;
+}
+.figureSize{
+    width: 50vh;
+}
